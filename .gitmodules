@@ -1,8 +1,14 @@
 [submodule "ITI-Spring-Grad-Project-ECommerce"]
-	path = ITI-Spring-Grad-Project-ECommerce
-	url = https://github.com/ITI-Intake-45/ITI-Spring-Grad-Project-ECommerce.git
+    path = ITI-Spring-Grad-Project-ECommerce
+    url = https://github.com/ITI-Intake-45/ITI-Spring-Grad-Project-ECommerce.git
 	branch = main
+
 [submodule "ITI-Angular-Grad-Project-ECommerce"]
-	path = ITI-Angular-Grad-Project-ECommerce
-	url = https://github.com/ITI-Intake-45/ITI-Angular-Grad-Project-ECommerce.git
+    path = ITI-Angular-Grad-Project-ECommerce
+    url = https://github.com/ITI-Intake-45/ITI-Angular-Grad-Project-ECommerce.git
+	branch = main
+
+[submodule "ITI-Angular-Admin-Grad-Project"]
+    path = ITI-Angular-Admin-Grad-Project
+    url = https://github.com/ITI-Intake-45/ITI-Angular-Admin-Grad-Project.git
 	branch = main
