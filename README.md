@@ -1,1 +1,1 @@
-ITI Spring Angular Ecommorce Graduation Project
+ITI Spring Boot + Angular, Ecommorce Graduation Project.
